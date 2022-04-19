@@ -260,7 +260,7 @@ PRODUCT_PACKAGES += \
     ueventd.qcom.rc
 
 # IFAA manager
-include vendor/xiaomi/sdm845-common-extra/ifaa.mk
+#include vendor/xiaomi/sdm845-common-extra/ifaa.mk
 
 # IPACM
 PRODUCT_PACKAGES += \
