@@ -5,8 +5,8 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/blaze_gauguin.mk
+    $(LOCAL_DIR)/arrow_gauguin.mk
 
 COMMON_LUNCH_CHOICES := \
-    blaze_gauguin-userdebug \
-    blaze_gauguin-eng
+    arrow_gauguin-userdebug \
+    arrow_gauguin-eng

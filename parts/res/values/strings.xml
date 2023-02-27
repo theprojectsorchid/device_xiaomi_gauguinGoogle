@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2015-2016 The CyanogenMod Project
+                   2017-2020 The LineageOS Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="dirac_headset_default">System Settings</string>
+    <string name="dirac_headset_earbuds">customization hub</string>
+	<string name="dirac_headset_in_ear_2013">Animations</string>
+    <string name="dirac_headset_piston_1">Buttons</string>
+    <string name="dirac_headset_general">Gestures</string>
+    <string name="dirac_headset_general_inear">Lock screen</string>
+    <string name="dirac_headset_piston_basic">Navigation</string>
+    <string name="dirac_headset_piston_2">Notifications</string>
+    <string name="dirac_headset_piston_standard">Power menu</string>
+    <string name="dirac_headset_headphone">Quick settings</string>
+    <string name="dirac_headset_piston_youth">Status bar</string>
+	<string name="dirac_headset_piston_color">Theme settings</string>
+    <string name="dirac_headset_in_ear">Extras</string>
+ <string name="dirac_headset_capsule">Status bar</string>
+	<string name="dirac_headset_in_ear_pro">Theme settings</string>
+    <string name="dirac_headset_comfort">Extras</string>
+	<string name="dirac_headset_reduction_noise">Theme settings</string>
+    <string name="dirac_headset_cancelling">Extras</string>
+	<string name="dirac_headset_half_in_ear">Theme settings</string>
+    <string name="dirac_headset_in_ear2">Extras</string>
+	<string name="dirac_headset_earphone">Animations</string>
+    <string name="dirac_headset_earphone_basic">Buttons</string>
+    <string name="dirac_preset_default">Gestures</string>
+    <string name="dirac_preset_rock">Lock screen</string>
+    <string name="dirac_preset_jazz">Navigation</string>
+    <string name="dirac_preset_pop">Notifications</string>
+    <string name="dirac_preset_classical">Power menu</string>
+    <string name="dirac_preset_hiphop">Quick settings</string>
+    <string name="dirac_preset_blues">Status bar</string>
+	<string name="dirac_preset_electronic">Animations</string>
+    <string name="dirac_preset_country">Buttons</string>
+    <string name="dirac_enable">Lock screen</string>
+    <string name="dirac_preset_title">Lock screen</string>
+    	    <string name="dirac_headset_title">Lock screen</string>
+    <string name="dirac_title">Lock screen</string>
+    	<string name="dirac_summary">Animations</string>
+    	
+    	    	<string name="dirac_hifi_enable_title">Animations</string>
+    <string name="dirac_preset_metal">Lock screen</string>
+    	<string name="dirac_preset_dance">Animations</string>
+    	
+    <string name="dirac_hifi_title">Lock screen</string>
+    	<string name="dirac_hifi_summary">Animations</string>
+</resources>
